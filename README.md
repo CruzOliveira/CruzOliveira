@@ -1,6 +1,7 @@
  ### Olá, sou o Matheus Cruz. 👋🏻
 
 -🌱 Estou cursando analize e desenvolvimento de sistema na Fiap
+-📫 Contate-me em: mccruz2611@gmail.com
 
 ##
 
