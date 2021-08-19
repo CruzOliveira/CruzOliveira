@@ -1,6 +1,7 @@
 ### Iae! eu sou o Matheus 👋
 
 -🌱 Estudando analize e desenvolvimento de sistema na Fiap
+- 📫 Contate-me em: mccruz2611@gmail.com
 
 ##
 
@@ -17,7 +18,7 @@
   <img align="center" alt="Cruz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cruz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cruz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cruz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align= "right" height="200" width="300" style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/762759949943701545/877937227626324038/tenor-2.png">
   
 </div>
   
