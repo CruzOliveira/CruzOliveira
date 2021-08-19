@@ -1,6 +1,6 @@
 ### Iae! eu sou o Matheus 👋
 
--🌱 Estudando analize e desenvolvimento de sistema
+-🌱 Estudando analize e desenvolvimento de sistema na Fiap
 
 ##
 
