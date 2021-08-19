@@ -1,6 +1,6 @@
-### Iae! eu sou o Matheus 👋
+ ### Olá, sou o Matheus Cruz. 👋🏻
 
--🌱 Estudando analize e desenvolvimento de sistema na Fiap
+-🌱 Estou cursando analize e desenvolvimento de sistema na Fiap
 
 ##
 
