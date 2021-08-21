@@ -5,8 +5,11 @@
 -📫 Contate-me em: mccruz2611@gmail.com
 
 -⚡ Estou em busca de estágio
-
+<div>
+<img src="https://komarev.com/ghpvc/?username=GustavoTolentino&color=green" alt="Contador de Visitas" /> 
+</div>
 ##
+
 
 <div>
   <a href="https://github.com/CruzOliveira">
