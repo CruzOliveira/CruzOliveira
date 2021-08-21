@@ -4,6 +4,8 @@
 
 -📫 Contate-me em: mccruz2611@gmail.com
 
+-⚡ Estou em busca de estágio
+
 ##
 
 <div>
