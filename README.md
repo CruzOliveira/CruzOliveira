@@ -33,7 +33,7 @@
   <img align="center" alt="Cruz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-plain.svg">
   <img align="center" alt="Cruz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg">
   
-  <img align="right" height="140" width="250"  src="https://ricardoandretto.jor.br/wp-content/uploads/2018/04/Man-Keyboard-GIF-by-South-Park.gif" alt="Man Keyboard GIF by South Park | Ricardo Andretto" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 243.562px; margin: 11.8688px 0px;">
+ 
  
   
 </div>
