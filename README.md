@@ -2,9 +2,9 @@
 
 -🌱 Estou cursando analize e desenvolvimento de sistema na Fiap
 
--📫 Contate-me em: mccruz2611@gmail.com
+-📫 Contate-me em: cruzoliveira2611@gmail.com
 
--⚡ Estou em busca de estágio
+-⚡ Estou em busca propostas de emprego
 
 <div>
  
